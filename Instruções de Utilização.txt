@@ -1,0 +1,21 @@
+Cenario: Todo mês é necessario cruzar 2 ou mais planilhas retiradas do sistema ERP para mapear a quantidade de estoque em DIAS
+
+Trabalho moroso de limpar, juntar, aprensentar os dados para diretoria.
+
+Com o pandas automatizamos o trabalho que antes levava horas para realizar.
+
+Agora nosso processo dura apenas alguns minutos.
+
+
+
+1 - Gerar o Relatorio do ERP (218Bruto.csv e 221114Bruto.csv) separados por ; no diretorio do projeto
+
+2 - Executar o TratarRelatorio218.py
+
+3 - Executar o TratarRelatorio221114.py
+
+* Após etapas 2 e 3 sera gerados arquivos locais 218 e 221114 (Tratados) que serve apenas para a função abaixo coletar e juntar
+
+4 - Executar o TratarRelatorio221114.py
+
+* Apos passo 4 sera gerado o resultado Final ResultadoGeral.html
