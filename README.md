@@ -20,7 +20,7 @@ PASSO A PASSO >>>
 
 3 - Executar o TratarRelatorio221114.py
 
-* Após etapas 2 e 3 sera gerados arquivos locais 218 e 221114 (Tratados) que serve apenas para a função abaixo coletar e juntar
+* Após etapas 2 e 3 sera gerado os arquivos locais 218 e 221114 (Tratados) que serve apenas para a função abaixo coletar e juntar
 
 4 - Executar o TratarRelatorio221114.py
 
