@@ -2,7 +2,7 @@
 
 Cenário: Todo mês é necessario cruzar 2 ou mais planilhas retiradas do sistema ERP para mapear a quantidade de estoque em DIAS
 
-Trabalho moroso de limpar, juntar, aprensentar os dados para diretoria.
+Trabalho moroso de limpar, juntar, apresentar os dados para diretoria.
 
 ![image](https://user-images.githubusercontent.com/64210900/156970757-eb0665e1-bb11-48fc-8395-e26cc0a07e36.png)
 
@@ -15,7 +15,9 @@ Agora nosso processo dura apenas alguns minutos.
 PASSO A PASSO >>>
 
 1 - Extrair os Relatorios do ERP (218Bruto.csv e 221114Bruto.csv) separados por ; no diretorio do projeto
+
 2 - Executar o TratarRelatorio218.py
+
 3 - Executar o TratarRelatorio221114.py
 
 * Após etapas 2 e 3 sera gerados arquivos locais 218 e 221114 (Tratados) que serve apenas para a função abaixo coletar e juntar
